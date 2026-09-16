@@ -170,3 +170,5 @@ modelagem-acido-latico-maple/
 ## Contexto Acadêmico
 
 Projeto desenvolvido no contexto da formação em **Engenharia Eletrônica pela Universidade Federal de Pernambuco (UFPE)**.
+
+[📄 Documentação completa do projeto (PDF v4)](documentacao/Trabalho%20Maple%20-%20v4.pdf)
