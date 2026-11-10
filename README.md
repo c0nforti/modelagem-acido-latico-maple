@@ -169,8 +169,6 @@ modelagem-acido-latico-maple/
 
 ## Contexto do Projeto
 
-## Contexto do Projeto
-
 O desenvolvimento deste projeto envolveu o aprendizado de Maple em um curto período, com apoio de ferramentas de inteligência artificial para compreender a linguagem e sua aplicação na resolução numérica de equações diferenciais e na análise de diferentes cenários operacionais.
 
 O repositório reúne a implementação computacional, os resultados gráficos e a documentação da versão final entregue.
