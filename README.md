@@ -169,10 +169,10 @@ modelagem-acido-latico-maple/
 
 ## Contexto do Projeto
 
-Projeto de modelagem matemática e simulação numérica desenvolvido em Maple, com foco na análise da produção de ácido lático por meio do modelo de Luedeking–Piret com inibição pelo produto.
+## Contexto do Projeto
 
-A implementação envolveu o aprendizado da ferramenta em um curto período, com apoio de inteligência artificial, e sua aplicação na resolução numérica de equações diferenciais e na análise de diferentes cenários operacionais.
+O desenvolvimento deste projeto envolveu o aprendizado de Maple em um curto período, com apoio de ferramentas de inteligência artificial para compreender a linguagem e sua aplicação na resolução numérica de equações diferenciais e na análise de diferentes cenários operacionais.
 
-O repositório reúne o arquivo original desenvolvido em Maple, os resultados gráficos e a documentação da versão final entregue.
+O repositório reúne a implementação computacional, os resultados gráficos e a documentação da versão final entregue.
 
 [📄 Documentação completa do projeto (PDF v4)](documentacao/Trabalho%20Maple%20-%20v4.pdf)
